@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<players>
+    <player>
+        <name>EDERSON</name>
+        <dob>17 AUGUST 1993</dob>
+        <position>GOALKEEPER</position>
+        <joined>1 JULY 2017</joined>
+        <shirt_number>31</shirt_number>
+        <birth_place>OSASCO</birth_place>
+        <nationality>BRAZIL</nationality>
+        <url>https://www.mancity.com/players/ederson</url>
+        <image>ederson.jpg</image>
+        <summary>
+            Ederson arrived at City on 1 July 2017 with a reputation as one of the brightest young goalkeeping prospects in world football. He’s fulfilled his early promise in Manchester, establishing himself as one of the best ‘keepers in England, winning two Premier League titles, three Carabao Cups, an FA Cup and two Community Shields in the process. Born Ederson Santana de Moraes, he began his youth career in his native Brazil with São Paulo FC, before venturing into Europe aged 16 to sign with Benfica. It was in Portugal where his professional career began, initially with second-tier outfit Ribeirão, where his form earned him a move to Primeira Liga side, Rio Ave.
+        </summary>
+    </player>
+
+    <player>
+        <name>KYLE WALKER</name>
+        <dob>28 MAY 1990</dob>
+        <position>DEFENDER</position>
+        <joined>14 JULY 2017</joined>
+        <shirt_number>2</shirt_number>
+        <birth_place>SHEFFIELD</birth_place>
+        <nationality>ENGLAND</nationality>
+        <url>https://www.mancity.com/players/kyle-walker</url>
+        <image>kylewalker.jpg</image>
+        <summary>
+            Kyle Walker was City’s third signing of summer 2017, arriving on a five-year deal from Tottenham Hotspur. Taking the number two shirt, the 29-year-old has made the right-back slot his own and won six trophies in his first two seasons. A product of the Sheffield United academy, he spent time on loan at Northampton Town before returning to Bramall Lane and impressing in the final few games of the season 2008-09 season. Spurs moved for him that summer, but his progress continued at his home town club, who he immediately returned to on loan.
+        </summary>
+    </player>
+
+    <player>
+        <name>RUBEN DIAS</name>
+        <dob>14 MAY 1997</dob>
+        <position>DEFENDER</position>
+        <joined>14 JULY 2017</joined>
+        <shirt_number>3</shirt_number>
+        <birth_place>AMADORA,LISBON</birth_place>
+        <nationality>PORTUGAL</nationality>
+        <url>https://www.mancity.com/players/ruben-dias</url>
+        <image>rubendias.jpg</image>
+        <summary>
+            The 2020/21 Premier League Player of the Season, Football Writer’s Player of the Year and Etihad Player of the Season: Ruben Dias. A commanding presence with a deep-rooted passion and strong winning mentality, Dias' influence has helped to seal a watertight defence, which during the 2020/21 season conceded the fewest Premier League goals and lifted the Carabao Cup for a fourth successive season. Dias was again outstanding in 2021/22, often wearing the skipper's armband in Fernandinho's absence.
+        </summary>
+    </player>
+
+    <player>
+        <name>NATHAN AKE</name>
+        <dob>18 FEBRUARY 1995</dob>
+        <position>DEFENDER</position>
+        <joined>5 AUGUST 2020</joined>
+        <shirt_number>6</shirt_number>
+        <birth_place>THE HAGUE</birth_place>
+        <nationality>NL</nationality>
+        <url>https://www.mancity.com/players/nathan-ake</url>
+        <image>nathanake.jpg</image>
+        <summary>
+            Nathan Ake was Manchester City’s second signing of summer 2020, arriving on a five-year deal which keeps him at the Club until 2025. The 25-year-old defender joined from Bournemouth, where he made 109 appearances in three seasons. Ake played predominantly at centre-half for the Cherries, but is capable of playing left-back and started his career as a holding midfielder.A 13-cap Netherlands international, he moved to England in 2011 at the age of 16, when Chelsea signed him from Feyenoord.
+        </summary>
+    </player>
+
+    <player>
+        <name>MANUEL AKANJI</name>
+        <dob>19 JULY 1995</dob>
+        <position>DEFENDER</position>
+        <joined>1 SEPTEMBER 2022</joined>
+        <shirt_number>25</shirt_number>
+        <birth_place>WIESENDANGEN</birth_place>
+        <nationality>SWI</nationality>
+        <url>https://www.mancity.com/players/manuel-akanji</url>
+        <image>akanji.jpg</image>
+        <summary>
+            The 27-year-old Swiss central defender joined from Borussia Dortmund in September 2022, with Manuel having made more than 150 appearances in total for the Bundesliga club.He began his career at FC Winterthur in his homeland before moving to Basel, where he impressed enough in his three seasons to convince Dortmund to swoop for him in January 2018.During the course of his four-and-a-half year stay with the Black and Yellows, Manuel helped Dortmund to win the German Super Cup in 2019 and the German Cup in 2020/21.
+        </summary>
+    </player>
+
+    <player>
+        <name>KEVIN DE BRUYNE</name>
+        <dob>28 JUNE 1991</dob>
+        <position>MIDFIELDER</position>
+        <joined>30 AUGUST 2015</joined>
+        <shirt_number>17</shirt_number>
+        <birth_place>DRONGEN</birth_place>
+        <nationality>BELGIUM</nationality>
+        <url>https://www.mancity.com/players/kevin-de-bruyne</url>
+        <image>debruyne.jpg</image>
+        <summary>
+            A highly rated youngster who has developed into one of the finest midfielders in the game, City secured Kevin De Bruyne’s services in the summer of 2016.Known as one of the continent’s assist kings, he arrived with a huge reputation, but after just one full season in Manchester it was evident that it was more than justified.With his creativity and eye for a defence splitting pass, he has gone on to establish himself as one of Pep Guardiola’s key players, winning two Premier Leagues, three Carabao Cups, an FA Cup and the Community Shield in the process.
+        </summary>
+    </player>
+
+    <player>
+        <name>RODRIGO</name>
+        <dob>22 JUNE 1996</dob>
+        <position>MIDFIELDER</position>
+        <joined>4 JULY 2019</joined>
+        <shirt_number>16</shirt_number>
+        <birth_place>MADRID</birth_place>
+        <nationality>SPAIN</nationality>
+        <url>https://www.mancity.com/players/rodrigo</url>
+        <image>rodri.jpg</image>
+        <summary>
+            Rodrigo Hernández Cascante, better known as ‘Rodri’, joined City on 4 July 2019.The 23-year-old Spanish midfielder joined from Atletico Madrid and became Pep Guardiola’s second signing of the summer.The defensively minded midfielder is most at home sitting in front of the back four, where Rodri has earned a reputation as one of Europe’s most exciting prospects.
+        </summary>
+    </player>
+
+    <player>
+        <name>ILKAY GUNDOGAN</name>
+        <dob>24 OCTOBER 1990</dob>
+        <position>MIDFIELDER</position>
+        <joined>1 JULY 2017</joined>
+        <shirt_number>8</shirt_number>
+        <birth_place>GELSENKIRCHEN</birth_place>
+        <nationality>GERMANY</nationality>
+        <url>https://www.mancity.com/players/ilkay-gundogan</url>
+        <image>gundogan.jpg</image>
+        <summary>
+            Ilkay Gundogan moved to City having earned a reputation as an energetic, intelligent midfielder during the early stages of his career in his native Germany.He spent time on the books of several clubs as a youth, including Borussia Dortmund’s arch-rivals Schalke 04, until his senior career began in earnest with a move to FC Nurnberg in 2009.His debut did not arrive until March 2010, but following a handful of appearances that season, he impressed in the side that finished sixth in the 2010-11 edition of the Bundesliga.
+        </summary>
+    </player>
+
+    <player>
+        <name>BERNARDO SILVA</name>
+        <dob>10 AUGUST 1994</dob>
+        <position>MIDFIELDER</position>
+        <joined>1 JULY 2016</joined>
+        <shirt_number>20</shirt_number>
+        <birth_place>LISBON</birth_place>
+        <nationality>PORTUGAL</nationality>
+        <url>https://www.mancity.com/players/bernardo-silva</url>
+        <image>bernardo.jpg</image>
+        <summary>
+            City signed Bernardo Silva in July 2017 after he helped Monaco to the Ligue 1 title and a hugely impressive run to the Champions League semi-finals. Blessed with balance, guile and great technique the Portuguese midfielder is a threat both centrally and out wide and earned the nickname ‘Bubblegum’ due to the manner in which the ball sticks to his feet on mazy dribbles.Add to that a tireless work-rate and it’s easy to understand why Bernardo has been influential in his two-years in Manchester, helping City win two Premier Leagues, two Carabao Cups, an FA Cup and the Community Shield.
+        </summary>
+    </player>
+
+    <player>
+        <name>PHIL FODEN</name>
+        <dob>28 MAY 2000</dob>
+        <position>WINGER/MIDFIELDER</position>
+        <joined>1 JULY 2016</joined>
+        <shirt_number>47</shirt_number>
+        <birth_place>STOCKPORT, MANCHESTER</birth_place>
+        <nationality>ENGLAND</nationality>
+        <url>https://www.mancity.com/players/phil-foden</url>
+        <image>foden.jpg</image>
+        <summary>
+            Widely regarded as one of England’s most gifted players, lifelong Blue Phil Foden excelled at youth level before graduating into the first-team.The Stockport-born playmaker joined City at U9 level now, aged 21, has four Premier Leagues, four Carabao Cups and FA Cup and two Community Shields in his medal collection.A creative, left-footed midfielder, Foden allies his eye for a pass with an ability to glide past opponents, something which stood out during his time in the Academy.
+        </summary>
+    </player>
+
+    <player>
+        <name>JACK GREALISH</name>
+        <dob>10 SEPTEMBER 1995</dob>
+        <position>WINGER/MIDFIELDER</position>
+        <joined>5 AUGUST 2021</joined>
+        <shirt_number>10</shirt_number>
+        <birth_place>BIRMINGHAM</birth_place>
+        <nationality>ENGLAND</nationality>
+        <url>https://www.mancity.com/players/jack-grealish</url>
+        <image>grealish.jpg</image>
+        <summary>
+            Jack Grealish joined City from Aston Villa for a British-record fee having established himself as one of the Premier League’s finest midfield technicians.Coming through the ranks at his boyhood club, Grealish was first given a taste of senior football whilst on loan at then-League One outfit Notts County, grabbing five goals and seven assists in 37 appearances across the 2013-14 campaign.The 18-year-old had proven he could stand up to the rigours of men’s football, and would make his Villa debut before the season’s end, coming on for a late cameo away to Manchester City in May 2014.
+        </summary>
+    </player>
+
+    <player>
+        <name>JULIAN ALVAREZ</name>
+        <dob>31 JANUARY 2000</dob>
+        <position>STRIKER</position>
+        <joined>31 JANUARY 2022</joined>
+        <shirt_number>19</shirt_number>
+        <birth_place>CALCHÍN, ARGENTINA</birth_place>
+        <nationality>ARGENTINA</nationality>
+        <url>https://www.mancity.com/players/julian-alvarez</url>
+        <image>alvarez.jpg</image>
+        <summary>
+            Julian Alvarez joined City on his 22nd birthday.The Argentinian forward has already collected five senior international caps for his country, agreed a five-and-a-half-year deal in January 2022.He will remain with River Plate on loan until the summer of 2022.Director of Football Txiki Begiristain believes City have signed a player with significant potential.“Julián is a player we have monitored for some time,” Begiristain said. “He is capable of operating in a number of attacking roles, and we firmly believe he's one of the best young attacking players in South America.
+        </summary>
+    </player>
+
+    <player>
+        <name>RIYAD MAHREZ</name>
+        <dob>21 FEBRUARY 1991</dob>
+        <position>WINGER</position>
+        <joined>10 JULY 2018</joined>
+        <shirt_number>26</shirt_number>
+        <birth_place>SARCELLES, FRANCE</birth_place>
+        <nationality>ALGERIA</nationality>
+        <url>https://www.mancity.com/players/riyad-mahrez</url>
+        <image>mahrez.jpg</image>
+        <summary>
+            Riyad Mahrez swapped the Midlands for Manchester when he joined Manchester City in July 2018.The 27-year-old signed a contract until 2023 after starring for the Leicester City that won the Premier League in 2016.He did the same at City in his debut season, whilst adding Carabao Cup, FA Cup and Community Shield medals to his collection, and contributed 12 goals and 12 assists across the campaign.French-born, Mahrez career began at Le Havre, where he made 67 appearances over a three-year period.
+        </summary>
+    </player>
+
+    <player>
+        <name>ERLING HAALAND</name>
+        <dob>21 JULY 2000</dob>
+        <position>STRIKER</position>
+        <joined>1 JULY 2022</joined>
+        <shirt_number>9</shirt_number>
+        <birth_place>LEEDS,ENGLAND</birth_place>
+        <nationality>NORWAY</nationality>
+        <url>https://www.mancity.com/players/erling-haaland</url>
+        <image>haaland.jpg</image>
+        <summary>
+            Erling Haaland joined City from Borussia Dortmund in July 2022, after penning a five-year deal which keeps him at the Etihad Stadium until the summer of 2027.The son of former City player Alfie, Haaland junior is widely regarded as one of Europe’s best strikers and will arrive at the Club with a formidable goalscoring reputation following impressive spells at Molde FK, Red Bull Salzburg and Dortmund.An established Norwegian international, he scored 86 goals in 89 games in two-and-a-half seasons with the Black and Yellows, winning the German Cup and the Bundesliga Player of the Season award in 2020/21.
+        </summary>
+    </player>
+
+</players>
